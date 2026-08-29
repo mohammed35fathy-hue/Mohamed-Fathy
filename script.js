@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', () => {
   /* ===== نموذج التواصل ===== */
   const form = document.getElementById('contactForm');
   const formNote = document.getElementById('formNote');
-  const FORMSPREE_ENDPOINT = 'https://formspree.io/f/ضع_الكود_هنا'; // استبدل بعد إنشاء حساب Formspree
+  const FORMSPREE_ENDPOINT = 'https://formspree.io/f/xjyvkyrr'; // استبدل بعد إنشاء حساب Formspree
 
   form.addEventListener('submit', async (e) => {
     e.preventDefault();
